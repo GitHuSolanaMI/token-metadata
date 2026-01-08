@@ -1,0 +1,9 @@
+{
+  "name": "My Token",
+  "symbol": "MTK",
+  "description": "Private Solana token",
+  "image": "https://raw.githubusercontent.com/GitHuSolanaMI/token-metadata/main/logo.png",
+  "attributes": [
+    { "trait_type": "Access", "value": "Private" }
+  ]
+}
