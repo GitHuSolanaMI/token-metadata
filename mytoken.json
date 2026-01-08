@@ -2,14 +2,11 @@
   "name": "My Token",
   "symbol": "MTK",
   "description": "Private Solana token",
-  "image": "https://raw.githubusercontent.com/GitHuSolanaMI/token-metadata/main/logo.png",
-
+  "image": "https://raw.githubusercontent.com/GitHuSolanaMI/token-metadata/main/metadata/logo.png",
   "external_url": "https://yourwebsite.com",
-
   "attributes": [
     { "trait_type": "Access", "value": "Private" }
   ],
-
   "properties": {
     "links": {
       "website": "https://yourwebsite.com",
