@@ -1,0 +1,15 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "My SPL token created via private constructor.",
+  "image": "https://raw.githubusercontent.com/GitHuSolanaMI/token-metadata/main/metadata/mytoken.png",
+  "external_url": "https://example.com",
+  "attributes": [],
+  "properties": {
+    "links": {
+      "website": "https://example.com",
+      "telegram": "https://t.me/example",
+      "twitter": "https://x.com/example"
+    }
+  }
+}
